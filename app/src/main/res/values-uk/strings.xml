@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Метроном</string>
+    <string name="sound_settings">Звук</string>
+    <string name="tempo_settings">Темп</string>
+    <string name="ticks_per_min_text">уд. в хв.</string>
+    <string-array name="tempo_names_array">
+        <item>Широко, дуже повільно</item>
+        <item>Досить повільно</item>
+        <item>Повільно, спокійно</item>
+        <item>Не поспішаючи</item>
+        <item>Помірно</item>
+        <item>Жваво</item>
+        <item>Швидко</item>
+        <item>Дуже швидко</item>
+    </string-array>
+    <string-array name="sound_names_array">
+        <item>Класичний C#</item>
+        <item>Класичний D</item>
+        <item>Клік</item>
+        <item>Тарілка</item>
+        <item>Электроний</item>
+        <item>Скрип (високий)</item>
+        <item>Скрип (низький)</item>
+    </string-array>
+</resources>

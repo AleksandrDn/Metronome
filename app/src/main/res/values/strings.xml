@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Metronome</string>
+    <string name="sound_settings">Sound</string>
+    <string name="tempo_settings">Tempo</string>
+    <string name="ticks_per_min_text">tick per min</string>
+    <string-array name="tempo_names_array">
+        <item>Large, very slowly</item>
+        <item>Rather slowly</item>
+        <item>Slowly, quietly</item>
+        <item>Leisurely</item>
+        <item>Moderately</item>
+        <item>Lively</item>
+        <item>Fast</item>
+        <item>Very fast</item>
+    </string-array>
+    <string-array name="sound_names_array">
+        <item>Classic C#</item>
+        <item>Classic D</item>
+        <item>Click</item>
+        <item>Plate</item>
+        <item>Electronic</item>
+        <item>Creak high</item>
+        <item>Creak low</item>
+    </string-array>
+</resources>
